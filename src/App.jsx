@@ -74,7 +74,7 @@ function App() {
       <div className='my-4'>
         <img
             className="mx-auto rounded-lg" 
-            src="/images/logo1.PNG"
+            src={`${import.meta.env.BASE_URL}images/logo1.PNG`}
             alt="logo Tepoznieve" 
             width={200}
             height={225}
@@ -122,8 +122,8 @@ function App() {
       <div className='mt-6'>
         
         <img
-            className="mx-auto rounded-lg" 
-            src="/images/personajes1.PNG"
+            className="mx-auto rounded-lg"
+            src={`${import.meta.env.BASE_URL}images/personajes1.PNG`}
             alt='personajes'
             width={150}
             height={200}

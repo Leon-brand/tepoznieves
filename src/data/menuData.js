@@ -51,7 +51,7 @@ export const menuData = [
       { name: "Canto de Sirenas", ingredients: ["coco", "vainilla"], image: "./images/canto-sirenas.PNG" },
       { name: "Cuatro Estaciones", ingredients: ["frutas mixtas"] },
       { name: "Donatita", ingredients: ["vainilla", "chocolate"] },
-      { name: "Eclipse", ingredients: ["chocolate", "vainilla"], image: "../images/eclipse.PNG" },
+      { name: "Eclipse", ingredients: ["chocolate", "vainilla"], image: "./images/eclipse.PNG" },
       { name: "Encanto de la Montaña", ingredients: ["leche", "canela"], image: "./images/encanto-montana.PNG" },
       { name: "Estrellita Tepozteca", ingredients: ["frutas"] },
       { name: "Eterno Amor", ingredients: ["fresa", "vainilla"] },
