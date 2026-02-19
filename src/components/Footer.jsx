@@ -5,7 +5,7 @@ const Footer = () => {
     <div 
       className="
         h-5
-        bg-[url(./images/bgheader.PNG)]
+        bg-[url(/images/bgheader.PNG)]
         bg-[length:45%_auto]
         bg-repeat-x
         bg-center"
