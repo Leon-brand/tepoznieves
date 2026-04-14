@@ -48,6 +48,7 @@ return (
               {hasImage && (
                 <img
                   src={item.image}
+                  loading="lazy"
                   alt={item.name}
                   className="
                     w-28
