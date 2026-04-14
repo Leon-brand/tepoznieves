@@ -1,7 +1,7 @@
 
 export const menuData = [
   {
-    category: "Nieves Tradicionales(Nieves de leche)",
+    category: "Nieves Tradicionales(Leche)",
     items: [
       //{ name: "Arándano", ingredients: ["arándano"] },
       //{ name: "Arroz", ingredients: ["arroz", "leche", "canela"] },
